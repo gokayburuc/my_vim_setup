@@ -1,0 +1,16 @@
+{
+  "coc.preferences.formatOnType": true,
+  "rust-analyzer.enable": true,
+  "coc.preferences.formatOnSave": true,
+  "coc.preferences.extensionUpdateCheck": "daily",
+  "json.format.enable": true,
+  "coc.preferences.enableMarkdown": true,
+  "sql.lintOnSave": true,
+  "sql.lintOnOpen": true,
+  "suggest.autoTrigger": "always",
+  "snippets.ultisnips.pythonPrompt": false,
+  "rust-analyzer.checkOnSave": true,
+  "pyright.enable": true,
+  "prettier.enable": true,
+  "rust-analyzer.completion.autoimport.enable": true
+}
