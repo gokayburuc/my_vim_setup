@@ -15,11 +15,14 @@ set tabstop=4
 " SHIFT
 set shiftwidth=4
 
+"SWAPFILE
 set noswapfile "disable creating swap file - dangerous
 
+"ENCODING
 set encoding=utf8
 
-syntax on "syntax higlighting on
+"SYNTAX HIGHLIGHT
+syntax on 
 
 " split scree
 set splitbelow
@@ -31,7 +34,6 @@ set wrap
 set autowrite
 
 "FILETYPE INDENT
-
 filetype indent on
 filetype plugin indent on
 
